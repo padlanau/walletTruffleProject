@@ -27,8 +27,8 @@ Test: In Remix
 6. select a new address (one of the owners) > click approve() with 0 value (zero bec it is the first element in the array transferRequests.length)
 
 Migrate:
-      PS D:\blockchain\walletTruffleProject> truffle console
-      truffle(development)> migrate --reset
+>      PS D:\blockchain\walletTruffleProject> truffle console
+>      truffle(development)> migrate --reset
 
       Compiling your contracts...
       ===========================
