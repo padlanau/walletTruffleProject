@@ -27,7 +27,7 @@ Test: In Remix
 6. select a new address (one of the owners) > click approve() with 0 value (zero bec it is the first element in the array transferRequests.length)
 
 Migrate (run from the terminal and make sure your Ganache is open) :
-> - D:\blockchain\inheritanceTruffleProject> truffle console (only if you are not in the console yet)
+> - D:\blockchain\walletTruffleProject> truffle console (only if you are not in the console yet)
 > - truffle(development)> migrate --reset (only use migrate if this is your first time) 
 > 
       Compiling your contracts...
